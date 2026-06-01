@@ -3,6 +3,7 @@
 'attributable deaths': 'Attributable deaths'
 'billion eur': 'Billion EUR'
 'dalys': 'DALYs'
+'dalys per 100,000 inhabitants': 'DALYs per 100,000 inhabitants'
 'eur': 'EUR'
 'euro per m³': 'Euro per m³'
 'eur per hour': 'EUR per hour'
@@ -37,6 +38,7 @@
 'million usd, constant prices (2021)': 'Million USD, constant prices (2021)'
 'million usd, constant prices (2022)': 'Million USD, constant prices (2022)'
 'million usd, constant prices (2023)': 'Million USD, constant prices (2023)'
+'million usd, constant prices (2024)': 'Million USD, constant prices (2024)'
 'no unit': 'No unit'
 'number': 'Number'
 "'number '": Number
@@ -98,6 +100,7 @@
 'proportion of household expenditures on health': 'Proportion of household expenditures on health'
 'income considered': 'Income considered'
 'sdg indicator': 'SDG indicator'
+'industry': 'Industry'
 'occupation': 'Occupation'
 'land cover class': 'Land cover class'
 'level of court': 'Level of court'
@@ -120,7 +123,7 @@
 'sea': 'Sea'
 'field of work': 'Field of work'
 'section': 'Section'
-'type of sector': 'Type of sector'
+'sector': 'Sector'
 'type of provider': 'Type of provider'
 'time series': 'Time series'
 'sex': 'Sex'
@@ -144,6 +147,7 @@
 'type of classification': 'Type of classification'
 'form of exploitation': 'Form of exploitation'
 'type of flow': 'Type of flow'
+'type of proceeding': 'Type of proceeding'
 'type of fiscal policy tool': 'Type of fiscal policy tool'
 'type of waste': 'Type of waste'
 'type of water body': 'Type of water body'
@@ -172,11 +176,14 @@
 'using spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts': 'Using spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts'
 '11 months and younger': '11 months and younger'
 '4 years and younger': '4 years and younger'
+'5 years and younger': '5 years and younger'
 '13 years and younger': '13 years and younger'
 '14 years and younger': '14 years and younger'
 '17 years and younger': '17 years and younger'
 '24 years and younger': '24 years and younger'
 '3 to under 5 years': '3 to under 5 years'
+'6 to under 12 years': '6 to under 12 years'
+'12 to under 18 years': '12 to under 18 years'
 '14 to under 18 years': '14 to under 18 years'
 '15 years': '15 years'
 '15.5 years': '15.5 years'
@@ -337,6 +344,10 @@
 '4.3.1 (15 to under 65 years)': '4.3.1 (15 to under 65 years)'
 '4.3.1 (25 to under 55 years)': '4.3.1 (25 to under 55 years)'
 '4.3.1 (55 to under 65 years)': '4.3.1 (55 to under 65 years)'
+'construction industry': 'Construction industry'
+'hairdressing and beauty industry': 'Hairdressing and beauty industry'
+'restaurant and lodging industry': 'Restaurant and lodging industry'
+'freight forwarding, transportation, and logistics industry': 'Freight forwarding, transportation, and logistics industry'
 'armed forces occupations': 'Armed forces occupations'
 'managers': 'Managers'
 'professionals': 'Professionals'
@@ -528,7 +539,7 @@
 'pipelines: crude oil': 'Pipelines: crude oil'
 'people requiring interventions': 'People requiring interventions'
 'inpatient treatment': 'Inpatient treatment'
-'(a) cardiovascular disease': '(a) Cardiovascular disease'
+'(a) diseases of the circulatory system': '(a) Diseases of the circulatory system'
 'leprosy': 'Leprosy'
 'buruli ulcer': 'Buruli ulcer'
 'human african trypanosomiasis': 'Human African Trypanosomiasis'
@@ -539,7 +550,7 @@
 'chronic obstructive pulmonary disease (copd)': 'Chronic obstructive pulmonary disease (COPD)'
 'lung cancer': 'Lung cancer'
 'stroke': 'Stroke'
-'(b) cancer': '(b) Cancer'
+'(b) malignant neoplasms': '(b) Malignant neoplasms'
 'ischemic heart diseases': 'Ischemic heart diseases'
 'diabetes mellitus type 2': 'Diabetes mellitus type 2'
 '(a) acute respiratory infections': '(a) Acute respiratory infections'
@@ -566,6 +577,8 @@
 'oda (net disbursements)': 'ODA (net disbursements)'
 'private sector flows at market terms (net disbursement)': 'Private sector flows at market terms (net disbursement)'
 'private concessional flows (net disbursements)': 'Private concessional flows (net disbursements)'
+'administrative offense proceedings': 'Administrative Offense Proceedings'
+'criminal proceedings': 'Criminal Proceedings'
 'tax reliefs': 'Tax reliefs'
 'total waste': 'Total waste'
 'municipal waste': 'Municipal waste'
@@ -623,14 +636,6 @@
 '+++X': cell blocked for logical reasons
 
 #Time series
-#Z_01022_1
-'persons at risk of poverty or social exclusion': 'Persons at risk of poverty or social exclusion'
-#Z_01022_2
-'at-risk-of-poverty rate': 'At-risk-of-poverty rate'
-#Z_01022_3
-'persons living in households with very low work intensity': 'Persons living in households with very low work intensity'
-#Z_01022_4
-'severely materially and socially deprived persons': 'Severely materially and socially deprived persons'
 #Z_01031_3
 'rate of minimum social security benefits': 'Rate of minimum social security benefits'
 #Z_01051_1
@@ -681,8 +686,6 @@
 'maternal mortality': 'Maternal mortality'
 #Z_03012_1
 'births attended by skilled health personnel': 'Births attended by skilled health personnel'
-#Z_03021_1
-'child mortality': 'Child mortality'
 #Z_03022_1
 'neonatal mortality': 'Neonatal mortality'
 #Z_03031_1
@@ -697,10 +700,6 @@
 'people requiring interventions against neglected tropical diseases': 'People requiring interventions against neglected tropical diseases'
 #Z_03035_2
 'inpatient treatment of neglected tropical diseases': 'Inpatient treatment of neglected tropical diseases'
-#Z_03041_1
-'mortality at the age of 30 to under 70 years': 'Mortality at the age of 30 to under 70 years'
-#Z_03042_1
-'mortality due to suicide': 'Mortality due to suicide'
 #Z_03051_1
 'inpatient treatment of substance use disorders': 'Inpatient treatment of substance use disorders'
 #Z_03051_2
@@ -713,22 +712,8 @@
 'births of young women': 'Births of young women'
 #Z_03082_1
 'gkv-households with large expenditures on health in relation to total household expenditure': 'GKV-households with large expenditures on health in relation to total household expenditure'
-#Z_03091_1
-'attributable deaths due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older': 'Attributable deaths due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older'
-#Z_03091_2
-'dalys due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older': 'DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older'
-#Z_03091_3
-'attributable deaths due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older by type of disease': 'Attributable deaths due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease'
-#Z_03091_4
-'dalys due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older by type of disease': 'DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease'
-#Z_03091_5
-'attributable deaths due to long-term exposure to fine particulate matter (pm₂.₅) in the population aged 25 years and older': 'Attributable deaths due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older'
-#Z_03091_6
-'dalys due to long-term exposure to fine particulate matter (pm₂.₅) in the population aged 25 years and older': 'DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older'
 #Z_03092_1
 'mortality attributed to contact to unsafe water, unsafe sanitation and lack of hygiene': 'Mortality attributed to contact to unsafe water, unsafe sanitation and lack of hygiene'
-#Z_03093_1
-'mortality attributed to unintentional poisoning': 'Mortality attributed to unintentional poisoning'
 #Z_03101_1
 'current tobacco use (age-standardised to who standard population)': 'Current tobacco use (age-standardised to WHO Standard Population)'
 #Z_03101_2
@@ -1286,6 +1271,23 @@ age of victim: Age of victims
 '+++s': 'estimated data'
 '+++-': 'no figures or magnitude zero'
 '+++X': 'cell blocked for logical reasons'
+'type of sector': 'Type of sector'
+'(a) cardiovascular disease': '(a) Cardiovascular disease'
+'(b) cancer': '(b) Cancer'
+'persons at risk of poverty or social exclusion': 'Persons at risk of poverty or social exclusion'
+'at-risk-of-poverty rate': 'At-risk-of-poverty rate'
+'persons living in households with very low work intensity': 'Persons living in households with very low work intensity'
+'severely materially and socially deprived persons': 'Severely materially and socially deprived persons'
+'child mortality': 'Child mortality'
+'mortality at the age of 30 to under 70 years': 'Mortality at the age of 30 to under 70 years'
+'mortality due to suicide': 'Mortality due to suicide'
+'attributable deaths due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older': 'Attributable deaths due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older'
+'dalys due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older': 'DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older'
+'attributable deaths due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older by type of disease': 'Attributable deaths due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease'
+'dalys due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older by type of disease': 'DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older by type of disease'
+'attributable deaths due to long-term exposure to fine particulate matter (pm₂.₅) in the population aged 25 years and older': 'Attributable deaths due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older'
+'dalys due to long-term exposure to fine particulate matter (pm₂.₅) in the population aged 25 years and older': 'DALYs due to long-term exposure to fine particulate matter (PM₂.₅) in the population aged 25 years and older'
+'mortality attributed to unintentional poisoning': 'Mortality attributed to unintentional poisoning'
 'percent of gdp': 'Percent of GDP'
 'type of ict competence': 'Type of ICT competence'
 "'area '": 'Area'
@@ -1296,7 +1298,6 @@ age of victim: Age of victims
 'function': 'Function'
 'indicator': 'Indicator'
 'fine particulate matter': 'Fine particulate matter'
-'sector': 'Sector'
 'skill': 'Skill'
 'substance': 'Substance'
 'technology': 'Technology'
