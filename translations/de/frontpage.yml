@@ -1,12 +1,6 @@
 file_size: <u>Alle Daten herunterladen (.zip):</u><br>Dateigröße
-heading: "Indikatoren der UN-Nachhaltigkeitsziele"
-heading_dns: "Indikatoren der Deutschen Nachhaltigkeitsstrategie"
-instructions_dns: Klicken Sie auf die einzelnen Ziele, um die Indikatoren der Deutschen Nachhaltigkeitsstrategie aufzurufen.
-link_18_title: Klicken Sie hier, um zur DESTATIS Seite der Deutschen Nachhaltigkeitsstrategie zu gelangen
-instructions: Klicken Sie auf die einzelnen Ziele, um die Indikatoren der UN-Nachhaltigkeitsziele für Deutschland aufzurufen.
+heading: "Beyond GPP"
+instructions: Klicken Sie auf die einzelnen Kacheln, um die Beyond GDP Indikatoren aufzurufen.
 download_all: ""
 zip_file: ZIP file
 intro_title: 17 Ziele zur Umgestaltung unserer Welt
-joint_action_text: Das Statistische Bundesamt ist Teil des <a href="https://sdg-indikatoren.de/joint_action">Gemeinschaftswerks Nachhaltigkeit</a>, einer offenen
-  Plattform für alle, die sich für eine nachhaltige Gesellschaft einsetzen.
-agenda_text: Informationen zur Agenda 2030 finden Sie <a href="https://sdg-indikatoren.de/strategy/2030_agenda/">hier</a>.
