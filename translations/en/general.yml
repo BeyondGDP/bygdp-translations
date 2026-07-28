@@ -16,6 +16,9 @@ home: Home
 loading: Loading search results
 opens_new_window: opens in a new window
 target: Target
+target_1: Theme
+target_2: Domain
+target_3: Subcategory
 targets: Targets
 twitter: <i class="fa fa-twitter" aria-hidden="true"></i>@destatis</a>
 dns_target: Range of indicators and postulates
