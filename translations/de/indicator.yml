@@ -41,7 +41,7 @@ dns_metadata_blurb: Diese Übersicht beinhaltet zusätzliche Informationen zu de
 national_metadata_blurb: Diese Übersicht enthält Informationen zu den dargestellten Zeitreihen, die in Deutschland verfügbar sind und ihre Vergleichbarkeit mit den UN-Metadaten. Die nationalen Metadaten enthalten ergänzende methodische und länderspezifische Informationen.
 no_data_hint: Aufgrund der bereits getroffenen Auswahl sind keine weiteren Auswahlmöglichkeiten
   verfügbar.
-series: Zeitreihen
+series: Indiktoren
 select_all: Alle<br>auswählen
 series_help: Wählen Sie bitte hier aus, was in der Grafik bzw. der Tabelle angezeigt werden soll.
 series_help_dns: Wählen Sie hier aus, was in der Grafik bzw. Tabelle angezeigt werden soll.
