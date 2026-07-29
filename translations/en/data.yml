@@ -249,6 +249,7 @@
 'remaining mountain area': 'Remaining mountain area'
 'upper bound': 'Upper bound'
 'lower bound': 'Lower bound'
+'land': 'Land'
 'victim of avalanche, landslide and other earth movements': 'Victim of avalanche, landslide and other earth movements'
 'exposure to excessive natural cold': 'Exposure to excessive natural cold'
 'victim of earthquake': 'Victim of earthquake'
@@ -636,6 +637,11 @@
 '+++X': cell blocked for logical reasons
 
 #Time series
+'biodiversity intactness indx': 'Biodiversity intactness indx'
+
+
+
+
 #Z_01031_3
 'rate of minimum social security benefits': 'Rate of minimum social security benefits'
 #Z_01051_1
