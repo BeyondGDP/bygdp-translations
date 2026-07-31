@@ -640,7 +640,9 @@
 'biodiversity intactness index': 'Index für den Erhalt der biologischen Vielfalt'
 'household disposable income per capita': 'Verfügbares Haushaltseinkommen pro Kopf'
 'composite rate of labour underutilization': 'Gesamtquote der Unterauslastung der Arbeitskräfte'
-
+'healthy life expectancy at birth': 'Gesunde Lebenserwartung bei der Geburt'
+'low-birthweight babies (percentage of births)': 'Babys mit niedrigem Geburtsgewicht (Anteil an den Geburten)'
+'potential years of life lost (pyll), all causes': 'Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen'
 
 #Z_01031_3
 'rate of minimum social security benefits': 'Mindestsicherungsquote'
