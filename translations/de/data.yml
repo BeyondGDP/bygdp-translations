@@ -643,6 +643,12 @@
 'healthy life expectancy at birth': 'Gesunde Lebenserwartung bei der Geburt'
 'low-birthweight babies (percentage of births)': 'Babys mit niedrigem Geburtsgewicht (Anteil an den Geburten)'
 'potential years of life lost (pyll), all causes': 'Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen'
+biodiversity index: Index der Artenvielfalt
+forest sub-indicator: Teilindex Wälder
+settlements sub-indicator: Teilindex Siedlungen
+farmland sub-indicator: Teilindex Agrarland
+inland waters sub-indicator: Teilindex Binnengewässer
+coasts/seas sub-indicator: Teilindex Küsten/Meere
 
 #Z_01031_3
 'rate of minimum social security benefits': 'Mindestsicherungsquote'
