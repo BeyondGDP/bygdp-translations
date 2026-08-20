@@ -651,6 +651,9 @@ farmland sub-indicator: Teilindex Agrarland
 inland waters sub-indicator: Teilindex Binnengewässer
 coasts/seas sub-indicator: Teilindex Küsten/Meere
 life satisfaction: Lebenszufriedenheit
+region: Region
+east: Neue Bundesländer
+west: Alte Bundesländer
 
 #Z_01031_3
 'rate of minimum social security benefits': 'Mindestsicherungsquote'
