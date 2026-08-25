@@ -6,7 +6,7 @@ comparison_sdg: Compliance with the UN metadata
 copyright: Copyright
 data_last_update: Data state
 goal_meta_link: Link to UN metadata
-goal_meta_national_link: National metadata
+goal_meta_national_link: Metadata
 indicator: Indicator number
 indicator_definition: Global indicator description
 dns_indicator_definition: Definition<small> (Text from the Indicator Report 2018)</small>
