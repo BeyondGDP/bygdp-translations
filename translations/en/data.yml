@@ -95,7 +95,7 @@
 'type of tenure': 'Type of tenure'
 'enterprise definition': 'Enterprise definition'
 'type of service': 'Type of service'
-'länder': 'Länder'
+'länder': 'Land'
 'degree of feelings of insecurity': 'Degree of feelings of insecurity'
 'typ of essential service': 'Typ of essential service'
 'proportion of household expenditures on health': 'Proportion of household expenditures on health'
@@ -189,6 +189,7 @@
 '15 years': '15 years'
 '15.5 years': '15.5 years'
 '15 to under 25 years': '15 to under 25 years'
+'15 to under 75 years': '15 to under 75 years'
 '15 years and older': '15 years and older'
 '16 years': '16 years'
 '16.5 years': '16.5 years'
@@ -198,10 +199,12 @@
 '16 years and older': '16 years and older'
 '17 years': '17 years'
 '17.5 years': '17.5 years'
+'18 years and younger': '18 years and younger'
 '18 to under 21 years': '18 to under 21 years'
 '18 to under 30 years': '18 to under 30 years'
 '18 to under 31 years': '18 to under 31 years'
 '18 to under 65 years': '18 to under 65 years'
+'20 to under 65 years': '20 to under 65 years'
 '21 to under 25 years': '21 to under 25 years'
 '21 to under 60 years': '21 to under 60 years'
 '25 to under 30 years': '25 to under 30 years'
@@ -649,7 +652,7 @@
 'household disposable income per capita': 'Household disposable income per capita'
 'composite rate of labour underutilization': 'Composite rate of labour underutilization'
 'healthy life expectancy at birth': Healthy life expectancy at
-'low-birthweight babies (percentage of births)': 'Low-birthweight babies (percentage of births)'
+'low-birthweight babies (percentage of births)': 'Low-birthweight babies'
 'potential years of life lost (pyll), all causes': 'Potential years of life lost (PYLL), all causes'
 biodiversity index: Biodiversity index
 forest sub-indicator: Forest sub-indicator
