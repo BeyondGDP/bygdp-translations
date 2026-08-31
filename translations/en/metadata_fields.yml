@@ -16,6 +16,7 @@ dns_content_url: Content and progress
 dns_content_url_text: Content and progress
 indicator_name: Indicator name
 indicator_sort_order: Indicator display order (within Goal page)
+information: Explanation
 info_url_1: Additional Information
 history_indicator_1: Indicator
 history_target_1: Target
@@ -31,6 +32,7 @@ national_indicator_available: Time series available
 national_indicators_available: Time series available
 national_indicator_description: Indicator description
 national_metadata_update_url: Last modification of code <small>(text)</small>
+sdg_indicator: SDG-Indicator
 source_contact_1: Contact details
 source_contact_2: Contact details
 source_contact_3: Contact details
