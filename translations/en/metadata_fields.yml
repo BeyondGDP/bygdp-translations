@@ -17,7 +17,8 @@ dns_indicator_intention: Target and intention <small>(Text from the Indicator Re
 dns_indicator_content: Content and progress
 dns_content_url: Content and progress
 dns_content_url_text: Content and progress
-indicator_name: Indicator name
+indicator_name: Indicator
+indicator_names: Indicators
 indicator_sort_order: Indicator display order (within Goal page)
 information: Explanation
 info_url_1: Additional Information
