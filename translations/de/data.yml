@@ -823,7 +823,7 @@ west: Alte Bundesländer
 #Z_05081_2
 'private households with at least one mobile phone': 'Privathaushalte mit mindestens einem Mobiltelefon'
 #Z_06011_2
-'population connected to the public water supply system': 'Bevölkerung mit Anschluss an die öffentliche Wasserversorgung'
+'population connected to the public water supply system': 'Bevölkerung mit sicher verwalteter Trinkwasserversorgung'
 #Z_06021_1
 'population with (own) toilet': 'Bevölkerung mit (eigener) Toilette'
 #Z_06021_2
@@ -1017,7 +1017,7 @@ west: Alte Bundesländer
 #Z_11061_2
 'municipal solid waste in total': 'Siedlungsabfälle insgesamt'
 #Z_11062_1
-'population weighted annual mean levels of fine particulate matter': 'Bevölkerungsgewichtete Jahresmittelwerte von Feinstaub'
+'population weighted annual mean levels of fine particulate matter': 'Feinstaubkonzentration'
 #Z_11062_2
 'population with excessive exposure to fine particulate matter': 'Bevölkerung mit erhöhter Feinstaubexposition'
 #Z_11071_1

@@ -823,7 +823,7 @@ west: Old länder
 #Z_05081_2
 'private households with at least one mobile phone': 'Private households with at least one mobile phone'
 #Z_06011_2
-'population connected to the public water supply system': 'Population connected to the public water supply system'
+'population connected to the public water supply system': 'Population with safely managed drinking water services'
 #Z_06021_1
 'population with (own) toilet': 'Population with (own) toilet'
 #Z_06021_2
@@ -1017,7 +1017,7 @@ west: Old länder
 #Z_11061_2
 'municipal solid waste in total': 'Municipal solid waste in total'
 #Z_11062_1
-'population weighted annual mean levels of fine particulate matter': 'Population weighted annual mean levels of fine particulate matter'
+'population weighted annual mean levels of fine particulate matter': 'Level of fine particulate matter'
 #Z_11062_2
 'population with excessive exposure to fine particulate matter': 'Population with excessive exposure to fine particulate matter'
 #Z_11071_1
