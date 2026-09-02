@@ -654,7 +654,7 @@
 'composite rate of labour underutilization': 'Quote der Unterauslastung von Arbeitskräften'
 'healthy life expectancy at birth': 'Gesunde Lebenserwartung bei der Geburt'
 'low-birthweight babies (percentage of births)': 'Neugeborene mit niedrigem Geburtsgewicht'
-'potential years of life lost (pyll), all causes': 'Potenzielle verlorene Lebensjahre (PYLL), alle Ursachen'
+'potential years of life lost (pyll), all causes': 'Potenzielle verlorene Lebensjahre (PYLL)'
 biodiversity index: Index der biologischen Vielfalt
 forest sub-indicator: Teilindex Wälder
 settlements sub-indicator: Teilindex Siedlungen
@@ -765,7 +765,7 @@ west: Alte Bundesländer
 #Z_03132_1
 'resistant isolates tested from blood cultures': 'Resistent getestete Isolate aus Blutkulturen'
 #Z_04011_1
-'children and youths with a minimum proficiency in reading or mathematics': 'Kinder und Jugendliche mit einem Mindestleistungsniveau in Lesen und Mathematik'
+'children and youths with a minimum proficiency in reading or mathematics': 'Kinder und Jugendliche mit einem Mindestniveau in Lesen und Mathematik'
 #Z_04012_1
 'completion rate': 'Abschlussquote'
 #Z_04022_1
@@ -773,7 +773,7 @@ west: Alte Bundesländer
 #Z_04031_1
 'participation in formal and non-formal education and training in the previous 12 months': 'Teilnahme an formaler und non-formaler Bildung und Ausbildung in den letzten 12 Monaten'
 #Z_04041_1
-'population with computer-related activities': 'Jugendliche und Erwachsene mit Informations- und Kommunikationstechnologie-Kompetenzen'
+'population with computer-related activities': 'Jugendliche und Erwachsene mit Kompetenzen in IKT'
 #Z_04051_1
 'gender parity index': 'Geschlechterparitätsindex'
 #Z_04061_1
@@ -789,7 +789,7 @@ west: Alte Bundesländer
 #Z_05011_1
 'legal frameworks that promote, enforce and monitor gender equality': 'Rechtliche Rahmenbedingungen zur Förderung, Durchsetzung und Überwachung der Gleichstellung der Geschlechter'
 #Z_05021_1
-'female victims of sexual violence by an intimate partner': 'Frauen und Mädchen, die sexuelle Gewalt durch einen Intimpartner erfahren haben'
+'female victims of sexual violence by an intimate partner': 'Frauen und Mädchen, die sexueller Gewalt durch Intimpartner/-innen ausgesetzt waren'
 #Z_05022_1
 'female victims of sexual violence a person other than an intimate partner': 'Weibliche Opfer von sexueller Gewalt durch Personen, die keine Intimpartner/-innen waren'
 #Z_05031_1
@@ -1153,7 +1153,7 @@ west: Alte Bundesländer
 #Z_16013_1
 'prevalence rate of physical, psychological and sexual violence': 'Prävalenzrate von physischer, psychischer und sexueller Gewalt'
 #Z_16014_1
-'feeling of (in)security of the population in its neighbourhood (after dark)': 'Bevölkerung, die sich sicher fühlt, nach Einbruch der Dunkelheit allein in der Umgebung ihres Wohnortes zu Fuß unterwegs zu sein'
+'feeling of (in)security of the population in its neighbourhood (after dark)': 'Anteil der Bevölkerung, der sich nach Einbruch der Dunkelheit in seiner Wohnumgebung allein sicher fühlt'
 #Z_16014_2
 'population not living in an area with crime, violence or vandalism': 'Bevölkerung, in deren Wohnumgebung es keine Kriminalität, Gewalt oder Vandalismus gibt'
 #Z_16014_3
