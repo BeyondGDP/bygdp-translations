@@ -663,8 +663,8 @@ inland waters sub-indicator: Teilindex Binnengewässer
 coasts/seas sub-indicator: Teilindex Küsten/Meere
 life satisfaction: Lebenszufriedenheit
 region: Region
-east: Neue Bundesländer
-west: Alte Bundesländer
+east: Neue Länder mit Berlin
+west: Früheres Bundesgebie
 
 #Z_01031_3
 'rate of minimum social security benefits': 'Mindestsicherungsquote'
@@ -1153,7 +1153,7 @@ west: Alte Bundesländer
 #Z_16013_1
 'prevalence rate of physical, psychological and sexual violence': 'Prävalenzrate von physischer, psychischer und sexueller Gewalt'
 #Z_16014_1
-'feeling of (in)security of the population in its neighbourhood (after dark)': 'Anteil der Bevölkerung, der sich nach Einbruch der Dunkelheit in seiner Wohnumgebung allein sicher fühlt'
+'feeling of (in)security of the population in its neighbourhood (after dark)': 'Bevölkerung, die sich nach Einbruch der Dunkelheit in ihrer Wohnumgebung allein sicher fühlt'
 #Z_16014_2
 'population not living in an area with crime, violence or vandalism': 'Bevölkerung, in deren Wohnumgebung es keine Kriminalität, Gewalt oder Vandalismus gibt'
 #Z_16014_3

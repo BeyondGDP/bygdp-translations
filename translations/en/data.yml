@@ -663,8 +663,8 @@ inland waters sub-indicator: Inland waters sub-indicator
 coasts/seas sub-indicator: Coasts/seas sub-indicator
 life satisfaction: Life satisfaction
 region: Region
-east: New länder
-west: Old länder
+east: New länder and Berlin
+west: Former federal territory
 
 #Z_01031_3
 'rate of minimum social security benefits': 'Rate of minimum social security benefits'
@@ -773,7 +773,7 @@ west: Old länder
 #Z_04031_1
 'participation in formal and non-formal education and training in the previous 12 months': 'Participation in formal and non-formal education and training in the previous 12 months'
 #Z_04041_1
-'population with computer-related activities': 'Proportion of youth and adults with ICT skills'
+'population with computer-related activities': 'Youth and adults with ICT skills'
 #Z_04051_1
 'gender parity index': 'Gender Parity Index'
 #Z_04061_1
