@@ -656,11 +656,11 @@
 'low-birthweight babies (percentage of births)': 'Neugeborene mit niedrigem Geburtsgewicht'
 'potential years of life lost (pyll), all causes': 'Potenzielle verlorene Lebensjahre (PYLL)'
 biodiversity index: Index der biologischen Vielfalt
-forest sub-indicator: Teilindex Wälder
-settlements sub-indicator: Teilindex Siedlungen
-farmland sub-indicator: Teilindex Agrarland
-inland waters sub-indicator: Teilindex Binnengewässer
-coasts/seas sub-indicator: Teilindex Küsten/Meere
+forest sub-indicator: Wälder
+settlements sub-indicator: Siedlungen
+farmland sub-indicator: Agrarland
+inland waters sub-indicator: Binnengewässer
+coasts/seas sub-indicator: Küsten/Meere
 life satisfaction: Lebenszufriedenheit
 region: Region
 east: Neue Länder mit Berlin

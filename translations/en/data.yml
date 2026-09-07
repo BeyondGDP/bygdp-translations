@@ -14,7 +14,7 @@
 'grams per decilitre': 'Grams per decilitre'
 'grams per eur, constant (2010)': 'Grams per EUR, constant (2010)'
 'hectare': 'Hectare'
-'houres per day': 'Houres per day'
+'hours per day': 'Hours per day'
 'index': 'Index'
 '2010 = 100': '2010 = 100'
 '2015 = 100': '2015 = 100'
@@ -96,7 +96,7 @@
 'enterprise definition': 'Enterprise definition'
 'type of service': 'Type of service'
 'länder': 'Land'
-'degree of feelings of insecurity': 'Degree of feelings of insecurity'
+'degree of feelings of insecurity': 'Degree of feeling of insecurity'
 'typ of essential service': 'Typ of essential service'
 'proportion of household expenditures on health': 'Proportion of household expenditures on health'
 'income considered': 'Income considered'
@@ -656,15 +656,15 @@
 'low-birthweight babies (percentage of births)': 'Low-birthweight babies'
 'potential years of life lost (pyll), all causes': 'Potential years of life lost (PYLL)'
 biodiversity index: Biodiversity index
-forest sub-indicator: Forest sub-indicator
-settlements sub-indicator: Settlements sub-indicator
-farmland sub-indicator: Farmland sub-indicator
-inland waters sub-indicator: Inland waters sub-indicator
-coasts/seas sub-indicator: Coasts/seas sub-indicator
+forest sub-indicator: Forests
+settlements sub-indicator: Settlements
+farmland sub-indicator: Farmland
+inland waters sub-indicator: Inland waters
+coasts/seas sub-indicator: Coasts/seas
 life satisfaction: Life satisfaction
 region: Region
 east: New länder and Berlin
-west: Former federal territory
+west: Former territory of the Federal Republic
 main habitat and landscape type: Main habitat and landscape type
 
 #Z_01031_3
