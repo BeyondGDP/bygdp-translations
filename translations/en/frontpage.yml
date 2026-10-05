@@ -5,14 +5,10 @@ download_all: ""
 zip_file: ZIP file
 intro_title: 17 goals to transform our world
 title: ''
-description: "Gross Domestic Product (GDP) is a key indicator for measuring economic development. However, a
-comprehensive assessment of social progress requires consideration of further economic, social
-and environmental aspects. The United Nations High-Level Expert Group on Beyond-GDP has developed a
-conceptual framework for this and proposed a
-<a href='https://www.un.org/sites/un2.un.org/files/high-level_expert_group_on_beyond_gdp_final_report.pdf'>dashboard comprising 31 indicators</a>.
-These indicators reflect various dimensions of
-well-being and sustainable development. These include current well-being, equality and participation,
-as well as sustainability and resilience. The Beyond-GDP Dashboard for Germany illustrates the trends
-in these indicators using data for Germany. Where available, time series and supplementary information
-are provided to help contextualise the results. The dashboard thus broadens the perspective beyond economic
-development and highlights other key aspects of social progress."
+description: Gross domestic product (GDP) is an important indicator of a country’s economic development.
+However, it can only partially reflect social progress and well-being. The Beyond-GDP approach therefore
+broadens the perspective to include additional economic, social, and environmental dimensions.<br><br>
+The United Nations has proposed a set of 31 indicators for this purpose, covering various aspects of
+well-being, equality, and participation, as well as sustainability and resilience.<br><br>
+The Beyond-GDP Dashboard for Germany shows the extent to which the proposed indicators can be depicted using
+available data for Germany. Where data is available, trends over time are presented.

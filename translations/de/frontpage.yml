@@ -5,15 +5,10 @@ download_all: ""
 zip_file: ZIP file
 intro_title: 17 Ziele zur Umgestaltung unserer Welt
 title: ''
-description: "Das Bruttoinlandsprodukt (BIP; englisch: Gross Domestic Product, GDP) ist ein zentraler
-Indikator zur Beschreibung der wirtschaftlichen Entwicklung. Für eine umfassende Betrachtung des
-gesellschaftlichen Fortschritts sind jedoch weitere ökonomische, soziale und ökologische Aspekte von
-Bedeutung. Die High-Level Expert Group on Beyond-GDP der Vereinten Nationen hat hierfür einen
-konzeptionellen Rahmen entwickelt und ein
-<a href='https://www.un.org/sites/un2.un.org/files/high-level_expert_group_on_beyond_gdp_final_report.pdf' >Dashboard mit 31 Indikatoren</a>
-vorgeschlagen. Die Indikatoren bilden verschiedene Dimensionen des Wohlergehens und der nachhaltigen Entwicklung ab.
-Dazu zählen aktuelles Wohlergehen, Gleichheit und Teilhabe sowie Nachhaltigkeit und Resilienz. Das Beyond-GDP Dashboard
-für Deutschland stellt die Entwicklung dieser Indikatoren anhand von Daten für Deutschland dar. Soweit verfügbar,
-werden Zeitreihen und ergänzende Informationen zur Einordnung der Ergebnisse bereitgestellt. Das Dashboard erweitert
-damit den Blick über die wirtschaftliche Entwicklung hinaus und macht weitere zentrale Aspekte des gesellschaftlichen
-Fortschritts sichtbar."
+description: Das Bruttoinlandsprodukt (BIP) ist ein wichtiger Indikator für die wirtschaftliche Entwicklung eines Landes. 
+Gesellschaftlicher Fortschritt und Wohlergehen lassen sich damit jedoch nur teilweise abbilden. Der Beyond-GDP Ansatz
+erweitert daher die Perspektive um weitere ökonomische, soziale und ökologische Dimensionen.<br><br>
+Die Vereinten Nationen haben hierfür ein Set von 31 Indikatoren vorgeschlagen, das unterschiedliche Aspekte von Wohlergehen,
+Gleichheit und Teilhabe sowie Nachhaltigkeit und Resilienz umfasst.<br><br>
+Das Beyond-GDP Dashboard für Deutschland zeigt, inwieweit die vorgeschlagenen Indikatoren anhand verfügbarer Daten für
+Deutschland abgebildet werden können. Wo Daten vorliegen, werden Entwicklungen im Zeitverlauf dargestellt.
