@@ -952,7 +952,7 @@ main habitat and landscape type: Main habitat and landscape type
 #Z_10021_1
 'population living below 50 % of median income': 'Population living below 50 % of median income'
 #Z_10031_1
-'population who felt discriminated in their contacts with public services in the last two years': 'Population who felt discriminated in their contacts with public services'
+'population who personally felt discriminated against in their contacts with government services': 'Population who felt discriminated in their contacts with public services'
 #Z_10041_1
 'labour share of gdp': 'Labour share of GDP'
 #Z_10042_1
@@ -1400,8 +1400,8 @@ age of victim: Age of victims
 'education (wz-code p)': 'Education (WZ-code P)'
 'level of water stress: share of withdrawal in renewable water resources': 'Level of water stress: share of withdrawal in renewable water resources'
 'level of water stress: share of withdrawal in renewable water resources, excluding cooling water': 'Level of water stress: share of withdrawal in renewable water resources, excluding cooling water'
-'average hourly earnings of employees': 'Average hourly earnings of employees'
-'gender pay gap': 'Gender Pay Gap'
+'average hourly earnings of employees': 'Average Gross Hourly Wages for Employment Relationships'
+'gender pay gap': 'Unadjusted Gender Pay Gap'
 '1) contracting party to the international treaty on pgrfa': '1) Contracting party to the International Treaty on PGRFA'
 '2) contracting party to the nagoya protocol': '2) Contracting party to the Nagoya Protocol'
 '3) existence of legislative, administrative and policy frameworks or measures reported through the online reporting system on compliance with the international treaty on pgrfa': '3) Existence of legislative, administrative and policy frameworks or measures reported through the Online Reporting System on Compliance with the International Treaty on PGRFA'

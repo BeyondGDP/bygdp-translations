@@ -952,7 +952,7 @@ main habitat and landscape type: Hauptlebensraum- und Landschaftstyp
 #Z_10021_1
 'population living below 50 % of median income': 'Bevölkerung, deren Einkommen weniger als 50 % des Medians beträgt'
 #Z_10031_1
-'population who felt discriminated in their contacts with public services in the last two years': 'Bevölkerung, die sich im Kontakt mit öffentlichen Diensten diskriminiert gefühlt hat'
+'population who personally felt discriminated against in their contacts with government services': 'Bevölkerung, die sich im Kontakt mit öffentlichen Diensten diskriminiert gefühlt hat'
 #Z_10041_1
 'labour share of gdp': 'Arbeitnehmerentgelt am BIP'
 #Z_10042_1
@@ -1406,8 +1406,8 @@ age of victim: Alter der Opfer
 'education (wz-code p)': 'Erziehung und Unterricht (WZ-Abschnitt P)'
 'level of water stress: share of withdrawal in renewable water resources': 'Nutzung der Wasserressourcen: Anteil der Entnahme an den erneuerbaren Wasserressourcen'
 'level of water stress: share of withdrawal in renewable water resources, excluding cooling water': 'Nutzung der Wasserressourcen: Anteil der Entnahme an den erneuerbaren Wasserressourcen (ohne Kühlwasser)'
-'average hourly earnings of employees': 'Durchschnittlicher Stundenverdienst von Beschäftigten'
-'gender pay gap': 'Verdienstabstand'
+'average hourly earnings of employees': 'Durchschnittlicher Bruttostundenverdienst von Beschäftigungsverhältnissen'
+'gender pay gap': 'Unbereinigter Gender Pay Gap'
 '1) contracting party to the international treaty on pgrfa': '1) Vertragspartei des Internationalen Vertrags über PGRFA'
 '2) contracting party to the nagoya protocol': '2) Vertragspartei des Nagoya-Protokolls'
 '3) existence of legislative, administrative and policy frameworks or measures reported through the online reporting system on compliance with the international treaty on pgrfa': '3) Vorhandensein rechtlicher, administrativer und politischer Rahmenbedingungen oder Maßnahmen, die über das Online-Berichtssystem zur Einhaltung des Internationalen Vertrags über PGRFA gemeldet werden'
